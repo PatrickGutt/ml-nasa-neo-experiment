@@ -1,0 +1,10 @@
+plotly
+seaborn
+scikit-learn
+kaggle
+numpy
+matplotlib
+pandas
+pathlib
+scipy
+imblearn
